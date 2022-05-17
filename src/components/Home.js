@@ -9,7 +9,7 @@ class Home extends Component {
                     <section className="page-section clearfix">
                         <div className="container">
                             <div className="intro">
-                                <img className="intro-img img-fluid mb-3 mb-lg-0 rounded" src="../../img/intro.jpeg" alt="..." />
+                                <img className="intro-img img-fluid mb-3 mb-lg-0 rounded" src="../assets/img/intro.jpeg" alt="..." />
                                 <div className="intro-text left-0 text-center bg-faded p-5 rounded">
                                     <h2 className="section-heading mb-4">
                                         <span className="section-heading-upper">Fresh Coffee</span>

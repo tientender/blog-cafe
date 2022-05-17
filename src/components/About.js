@@ -6,7 +6,7 @@ class About extends Component {
             <div>
                 <section className="page-section about-heading">
                     <div className="container">
-                        <img className="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="../../img/about.jpeg" alt="..." />
+                        <img className="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="../img/about.jpeg" alt="..." />
                         <div className="about-heading-content">
                             <div className="row">
                                 <div className="col-xl-9 col-lg-10 mx-auto">
